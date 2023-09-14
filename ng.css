@@ -1,0 +1,7 @@
+body {
+    background-image: url('duong-dan-den-anh-nen.jpg');
+    background-size: cover;
+    /* Để đảm bảo ảnh nền được hiển thị đúng cỡ */
+    background-repeat: no-repeat;
+    /* Ngăn lặp lại ảnh nền */
+}
